@@ -1,4 +1,4 @@
-# AIgeneering_four_week_course
+# AIgeneering four week course
 
 In this course, I'm diving into the following concepts in AI engineering:
 
