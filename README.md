@@ -1,6 +1,6 @@
-# AIgeneering four week course
+## AIgeneering four week course
 
-In this course, I'm diving into the following concepts in AI engineering:
+# In this course, I'm diving into the following concepts in AI engineering:
 
 - AI intro, history
 - Machine Learning (ML) concepts
