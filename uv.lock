@@ -5,6 +5,7 @@ requires-python = ">=3.12"
 [manifest]
 members = [
     "02-setup",
+    "04-pydantic",
     "aigeneering-four-week-course",
 ]
 
@@ -12,6 +13,21 @@ members = [
 name = "02-setup"
 version = "0.1.0"
 source = { virtual = "02_setup" }
+
+[[package]]
+name = "04-pydantic"
+version = "0.1.0"
+source = { virtual = "04_pydantic" }
+dependencies = [
+    { name = "ipykernel" },
+    { name = "pydantic" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "ipykernel", specifier = ">=7.1.0" },
+    { name = "pydantic", specifier = ">=2.12.4" },
+]
 
 [[package]]
 name = "aigeneering-four-week-course"

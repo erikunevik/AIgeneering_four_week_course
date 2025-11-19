@@ -15,4 +15,5 @@ dependencies = [
 [tool.uv.workspace]
 members = [
     "02_setup",
+    "04_pydantic",
 ]
