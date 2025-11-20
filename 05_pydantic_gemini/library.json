@@ -1,0 +1,55 @@
+{
+    "name": "Calcio Library",
+    "books": [
+        {
+            "title": "Maldini: The Captain's Legacy",
+            "author": "Luca Caioli",
+            "year": 2003
+        },
+        {
+            "title": "The Divine Ponytail: Baggio's Odyssey",
+            "author": "Gabriele Marcotti",
+            "year": 2000
+        },
+        {
+            "title": "Maradona: King of Naples",
+            "author": "Vincenzo D'Angelo",
+            "year": 1990
+        },
+        {
+            "title": "Van Basten: The Swan of Utrecht",
+            "author": "Sandro Piccinini",
+            "year": 1994
+        },
+        {
+            "title": "Baresi: The Milan Wall",
+            "author": "Riccardo Cucchi",
+            "year": 1998
+        },
+        {
+            "title": "Del Piero: Fantasista Forever",
+            "author": "Maurizio Crosetti",
+            "year": 2004
+        },
+        {
+            "title": "Batistuta: The Lion King",
+            "author": "Andrea Sorrentino",
+            "year": 2001
+        },
+        {
+            "title": "Zidane in Turin: The Maestro's Italian Years",
+            "author": "Philippe Auclair",
+            "year": 2002
+        },
+        {
+            "title": "Il Fenomeno: Ronaldo's Inter Legacy",
+            "author": "Giancarlo Padovan",
+            "year": 2000
+        },
+        {
+            "title": "Totti: The Roman King",
+            "author": "Marco Evangelisti",
+            "year": 2005
+        }
+    ]
+}
