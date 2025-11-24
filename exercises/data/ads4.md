@@ -1,0 +1,120 @@
+# ads4.txt
+
+##-----------------Summarized ad----------------------
+
+####  This job ad is for a **Fysioterapeut/Sjukgymnast (Physiotherapist)** at **Tiohundra AB** in **Norrtälje municipality**.
+
+The full-time, permanent (or temporary) position is within their **LSS HSL team**, working with individuals with **functional disabilities**. The role focuses on rehabilitation and maintaining/improving clients' functional abilities. You'll work independently and in close collaboration with occupational therapists and nurses in a multi-professional team.
+
+**Key responsibilities** include assessing functional ability, providing rehabilitation, initiating treatment/training/aid prescriptions, and instructing/supporting staff.
+
+**Essential requirements** are being a **licensed physiotherapist**, having a **driver's license (B) and driving experience** (as the role involves travel within Norrtälje), and possessing strong communication, adaptability, and collaboration skills with a patient-first approach. Experience with functional variations is a merit.
+
+The work schedule is **daytime, Monday-Friday**. The company offers a **wellness allowance of 5000 SEK per year**. The application deadline is **December 14th**.  
+
+##-----------------Main text----------------------
+
+#### Fysioterapeut/sjukgymnast till HSL-team inom LSS | Tiohundra
+Tiohundra AB, Funktionsstöd och service, LSS HSL team
+Fysioterapeut/Sjukgymnast
+Kommun: Norrtälje
+Kort arbetsbeskrivning
+Omfattning: Heltid
+Varaktighet: Tillsvidare
+Anställningsform: Tillsvidare- eller tidsbegränsad anställning
+Sök jobbet
+Sista ansökningsdag: 14 december (om 20 dagar)
+Ange referens: 2025/7200 i din ansökan
+Om jobbet
+Vi söker dig som är legitimerad fysioterapeut/sjukgymnast och som vill vara en del av vårt engagerade HSL-team inom LSS! 
+
+Om tjänsten
+
+Som fysioterapeut hos oss arbetar du med personer med funktionsnedsättning.
+
+Du arbetar såväl självständigt som samarbetar nära med arbetsterapeut och sjuksköterska i ett tvärprofessionellt team, där ni tillsammans bidrar till att skapa bästa möjliga stöd för den enskilde brukaren. Hos oss arbetar du med ett rehabiliterande förhållningssätt i fokus, där målet är att bibehålla eller förbättra brukarens funktionsförmåga i största möjliga mån. 
+
+Du arbetar dagtid måndag-fredag på LSS enheter i Norrtälje kommun, och du behöver därmed åka bil inom tjänsten. 
+
+Dina arbetsuppgifter omfattar bland annat:
+
+Bedömning av funktionsförmåga
+Rehabilitering och bashabilitering
+Initiering av behandling, träning och hjälpmedelsförskrivning
+Att instruera, handleda och stödja personal i ett rehabiliterande förhållningssätt 
+Om vårt erbjudande:
+
+ Vi erbjuder friskvårdsbidrag på 5000 kr per år. Du kan läsa mer om våra förmåner här.
+
+Om dig
+
+För den här tjänsten behöver du:
+
+• Vara legitimerad fysioterapeut/sjukgymnast
+• Ha körkort för personbil samt körvana 
+
+Det är meriterande om du också har:
+
+• Erfarenhet inom området funktionsvariation
+
+Du har en god kommunikativ förmåga och kan anpassa din kommunikation utefter situation och patientens behov. Du har lätt för att justera ditt arbetssätt utifrån ändrade förutsättningar och ser möjligheter i förändringar. Då du möter människor med olika typer av behov är det viktigt att du har lätt för att samarbeta och alltid sätta patienten i fokus. Du har erfarenhet av eller intresse för att arbeta med personer med flerfunktionsnedsättning. 
+
+Du delar vår värdegrund som bygger på delaktighet, trygghet och respekt. Vi lägger stor vikt vid personlig lämplighet.
+
+Om oss
+
+För oss är ett helhetsperspektiv på individens hälsa och livskvalitet viktigt, och vi drivs av att skapa möjligheter till delaktighet och utveckling i vardagen för de vi hjälper. Med innovativa och effektiva arbetssätt vill vi höja kvaliteten och skapa mervärde för patienter, brukare, närstående och medarbetare, och vi hoppas att du vill vara en del av ett team vi är stolta över. 
+
+Vi är en del av Tiohundra – det kompletta vårdbolaget i Roslagen.
+Att söka jobb i Region Stockholm
+
+Vi eftersträvar jämställdhet och jämlikhet på vår arbetsplats och ser gärna sökande med olika bakgrund och förutsättningar.
+
+
+Vi tar endast emot ansökningar via detta system. Ansök genom att klicka på knappen ”Ansök”. Ansökningar per brev eller e-post beaktas inte. Vi undanber oss direktkontakt med bemannings- och rekryteringsföretag samt säljare av ytterligare jobbannonser.
+
+
+Vårt rekryteringssystem kan inte hantera anonyma ansökningar eller sökande med skyddade personuppgifter. Om du har skyddade personuppgifter ber vi dig att kontakta den kontaktpersonen som finns angiven i annonsen. Din ansökan kommer då att hanteras utanför rekryteringssystemet. Du bör även vara försiktig med vilken information du lämnar i din ansökan och endast ta med information som är relevant för den aktuella befattningen.
+
+
+Region Stockholm ansvarar för hälso- och sjukvård, kollektivtrafik, regional utveckling och bidrar till kulturlivet. Varje dag, dygnet runt. I landets snabbaste växande region. Tillsammans skapar vi Europas attraktivaste storstadsregion.
+
+
+https://www.regionstockholm.se/jobb
+Läs mer
+Kvalifikationer
+Arbetslivserfarenhet
+Krav
+Fysioterapeut/Sjukgymnast -  
+erfarenhet efterfrågas
+Körkort
+Krav
+B
+Övrig information
+Lön
+Månadslön
+Lönetyp: Fast månads- vecko- eller timlön
+Anställningsvillkor
+100. Tillträde: Enligt överenskommelse
+Tillsvidareanställning
+Var ligger arbetsplatsen?
+Arbetsplatsen ligger i kommunen Norrtälje i Stockholms län.
+Arbetsgivare
+Tiohundra AB
+Postadress
+Tiohundra AB
+Box 22550
+10422 Stockholm
+Kontakt
+Kontaktpersoner
+Malin Gustafsson
+08-12327534
+Fackliga kontaktpersoner
+Nås via vår växel, tel
+0176-10100
+Nås via vår växel, tel
+0176-10100
+Sök jobbet
+
+---------------------------------------
+
