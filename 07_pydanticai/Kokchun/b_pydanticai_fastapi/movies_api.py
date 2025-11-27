@@ -14,13 +14,13 @@ agent = Agent(model="google-gla:gemini-2.5-flash", output_type=Movie)
 @app.get("/movies")
 async def read_movies():
     movies = query_duckdb("FROM movies;")
-    return movies.to_dict(orient="records")
+    return movies.to_dict(orient="records") #Fast api gör automatiskt om den till json, vilket behövs då den postas till API
 
 
 @app.post("/movie")
 async def create_movie(query: Prompt):
     result = await agent.run(query.prompt)
-    movie = result.output
+    movie = result.output # Movie är en pydantic model
 
     # protect against SQL injection
     query_duckdb(
