@@ -5,6 +5,6 @@ query_duckdb("""
         title TEXT,
         year INTEGER,
         genre TEXT,
-        rating TINYINT
+        rating INTEGER,
     );
     """)
