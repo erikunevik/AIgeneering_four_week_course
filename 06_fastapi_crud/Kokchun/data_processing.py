@@ -1,6 +1,12 @@
 import json
 from constants import DATA_PATH, CURRENT_YEAR
 from pydantic import BaseModel, Field, field_validator
+from pydantic_ai import Agent
+from dotenv import load_dotenv
+
+load_dotenv()
+
+
 
 
 def read_json(filename):
@@ -9,7 +15,7 @@ def read_json(filename):
 
     return data
 
-
+    
 class Book(BaseModel):
     id: int
     title: str
@@ -28,9 +34,13 @@ class Book(BaseModel):
     }
 
 
+
 class Library(BaseModel):
     name: str
     books: list[Book]
+
+class Prompt(BaseModel):
+    prompt: str
 
 
 def library_data(filename):
@@ -48,3 +58,8 @@ class YearFilter(BaseModel):
         if value <= info.data.get("start_year"):
             raise ValueError("end_year must be greater than start_year")
         return value
+
+agent = Agent(
+    model="google-gla:gemini-2.5-flash",
+    output_type=Book,
+)

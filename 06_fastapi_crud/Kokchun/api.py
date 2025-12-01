@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Query
-from data_processing import library_data, Book
+from data_processing import library_data, Book, Prompt, agent
 from pprint import pprint
 from constants import CURRENT_YEAR
 
@@ -44,14 +44,13 @@ async def filter_books(
 
     return filtered_books
 
-
-@app.post("/books/create_book")
-async def create_book(book_request: Book):
-    new_book = Book.model_validate(book_request)
-    books.append(new_book)
-
-    return new_book
-
+@app.post("/book/create_book")
+async def create_book(query: Prompt):
+    result = await agent.run(query.prompt)
+    created_book = result.output  
+    books.append(created_book)  
+    return created_book
+    
 @app.put("/books/update_book")
 async def update_book(updated_book: Book):
     for i, book in enumerate(books):
