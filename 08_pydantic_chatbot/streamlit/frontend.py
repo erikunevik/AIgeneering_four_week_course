@@ -9,7 +9,7 @@ def init_session_states():
     if "bot" not in st.session_state:
         st.session_state.bot = JokeBot()
 
-#Kommer ur en dict,  Role är du, content boten   
+# Kommer ur en dict,  Role är du, content boten, man hämtar ut historiken   
 def display_chat_messages(): 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
@@ -19,7 +19,8 @@ def handle_user_input():
     if prompt := st.chat_input("Talk to the Jokebot"):
         st.session_state.messages.append({"role": "user", "content": prompt})
         
-        bot_response = st.session_state.bot.chat(prompt).get("bot")
+        # Bot response 
+        bot_response = st.session_state.bot.chat(prompt).get("bot") 
         
         response = f"Ro båt: {bot_response}"
         

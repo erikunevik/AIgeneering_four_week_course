@@ -19,12 +19,14 @@ class JokeBot:
         message_history = self.result.all_messages() if self.result else None
         self.result = self.chat_agent.run_sync(prompt, message_history=message_history)
 
-        return {"user": prompt, "bot": self.result.output}
+        return {"user": prompt, "bot": self.result.output} # På så sätt har boten minne 
 
 
 if __name__ == "__main__":
+    
+    #Instantiate an instance of class (bot is sent in as self)
     bot = JokeBot()
-    result = bot.chat("Hej svej")
+    result = bot.chat("Hej svej") #Skickar in self/bot in i chat
     result = bot.chat("Hej svej igen")
     print(result)
     print(bot.result.all_messages())
