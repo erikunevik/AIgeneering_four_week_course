@@ -209,4 +209,10 @@ __marimo__/
 
 vector_database
 
+data/*.txt
+
+assets/*.png
+
+data/*.pdf
+
 

@@ -45,6 +45,9 @@ dependencies = [
     { name = "lancedb" },
     { name = "matplotlib" },
     { name = "pandas" },
+    { name = "pydf" },
+    { name = "pypdf" },
+    { name = "pypf" },
     { name = "scikit-learn" },
 ]
 
@@ -56,6 +59,9 @@ requires-dist = [
     { name = "lancedb", specifier = ">=0.25.3" },
     { name = "matplotlib", specifier = ">=3.10.7" },
     { name = "pandas", specifier = ">=2.3.3" },
+    { name = "pydf", specifier = ">=12" },
+    { name = "pypdf", specifier = ">=6.4.0" },
+    { name = "pypf", specifier = ">=0.9.6" },
     { name = "scikit-learn", specifier = ">=1.7.2" },
 ]
 
@@ -1455,6 +1461,12 @@ wheels = [
 ]
 
 [[package]]
+name = "pydf"
+version = "12"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/c7/27/8174d7338be329ea3aabb185a3a19860ea97b8e223b78b21511df529e0fe/pydf-12.tar.gz", hash = "sha256:7f47a7c3abfceb1ac04fc009ded538df1ae449c31203962a1471a4eb3bf21439", size = 13537, upload_time = "2015-04-03T15:30:30.914Z" }
+
+[[package]]
 name = "pygments"
 version = "2.19.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1471,6 +1483,24 @@ sdist = { url = "https://files.pythonhosted.org/packages/f2/a5/181488fc2b9d093e3
 wheels = [
     { url = "https://files.pythonhosted.org/packages/10/5e/1aa9a93198c6b64513c9d7752de7422c06402de6600a8767da1524f9570b/pyparsing-3.2.5-py3-none-any.whl", hash = "sha256:e38a4f02064cf41fe6593d328d0512495ad1f3d8a91c4f73fc401b3079a59a5e", size = 113890, upload_time = "2025-09-21T04:11:04.117Z" },
 ]
+
+[[package]]
+name = "pypdf"
+version = "6.4.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/f3/01/f7510cc6124f494cfbec2e8d3c2e1a20d4f6c18622b0c03a3a70e968bacb/pypdf-6.4.0.tar.gz", hash = "sha256:4769d471f8ddc3341193ecc5d6560fa44cf8cd0abfabf21af4e195cc0c224072", size = 5276661, upload_time = "2025-11-23T14:04:43.185Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/cd/f2/9c9429411c91ac1dd5cd66780f22b6df20c64c3646cdd1e6d67cf38579c4/pypdf-6.4.0-py3-none-any.whl", hash = "sha256:55ab9837ed97fd7fcc5c131d52fcc2223bc5c6b8a1488bbf7c0e27f1f0023a79", size = 329497, upload_time = "2025-11-23T14:04:41.448Z" },
+]
+
+[[package]]
+name = "pypf"
+version = "0.9.6"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/13/da/558e308dacc1e3b83ef529fb1e6196c689aa2495092963cf962838fb9866/pypf-0.9.6.tar.gz", hash = "sha256:6ed6d6fd886ae50f6192030e2cb3d920722784f3a13a01d0951666d380544d71", size = 13173, upload_time = "2017-09-24T00:30:13.574Z" }
 
 [[package]]
 name = "python-dateutil"
