@@ -14,15 +14,15 @@ def extract_text_from_pdf(path) -> str:
     return all_text
 
 def export_text_to_txt(text, export_path):
-    with open(export_path, "w") as file:
+    with open(export_path, "w", encoding="utf-8") as file: # w as write
         file.write(text)
 
 
 if __name__ == "__main__":
-    for pdf_path in DATA_PATH.glob("*.pdf"):
+    for pdf_path in DATA_PATH.glob("*.pdf"): # glob söker efter filer
         pdf_text = extract_text_from_pdf(pdf_path)
         
-        filename = f"{pdf_path.stem.casefold()}.txt"
+        filename = f"{pdf_path.stem.casefold()}.txt" #.stem är utan ändelsen. Man vill göra det för att lägga till .txt istället. 
         
         export_text_to_txt(pdf_text, DATA_PATH / filename)
 #%%

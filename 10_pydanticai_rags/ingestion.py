@@ -21,6 +21,7 @@ def ingest_docs_to_vector_db(table):
         doc_id = file.stem
         table.delete(f"doc_id = '{doc_id}'") # Tar bort ev. gammal rad med samma doc_id i tabellen (så uppdateringar inte ger dubbletter):
         
+        # Embeddings räknas in automatiskt åt oss
         table.add(
             [
             

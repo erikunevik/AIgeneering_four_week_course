@@ -19,7 +19,7 @@ rag_agent = Agent(
     output_type=RagResponse,
 )
 
-
+# En hjälp funktion till agenten där den plockar fram top 3 sen top 1 av de närmsta funktionerna
 @rag_agent.tool_plain
 def retrieve_top_documents(query: str, k=3) -> str:
     """
