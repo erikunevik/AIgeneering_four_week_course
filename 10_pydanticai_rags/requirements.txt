@@ -8,4 +8,5 @@ google-generativeai
 lancedb
 pydantic-ai
 uvicorn
+ipykernel
 

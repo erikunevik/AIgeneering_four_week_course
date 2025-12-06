@@ -6,16 +6,20 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "azure-functions>=1.24.0",
+    "dotenv>=0.9.9",
+    "fastapi>=0.124.0",
     "google-genai>=1.51.0",
     "google-generativeai>=0.8.5",
     "ipykernel>=7.1.0",
     "lancedb>=0.25.3",
     "matplotlib>=3.10.7",
     "pandas>=2.3.3",
+    "pydantic-ai>=1.27.0",
     "pydf>=12",
     "pypdf>=6.4.0",
     "pypf>=0.9.6",
     "scikit-learn>=1.7.2",
+    "uvicorn>=0.38.0",
 ]
 
 [tool.uv.workspace]
