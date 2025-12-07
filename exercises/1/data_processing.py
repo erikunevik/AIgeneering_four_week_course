@@ -44,7 +44,7 @@ async def read_books():
 
 #B)
 
-@app.get("/glossary/")
+@app.get("/filter/glossary/")
 async def filter_glossary(
     word: str = Query(None, description="Sök efter ett specifikt ord i gloslistan")
 ):
@@ -55,3 +55,27 @@ async def filter_glossary(
     filtered = [item for item in words if item.word.casefold() == word.casefold()]
     
     return filtered
+
+#C)
+
+@app.post("/Create/glossary")
+async def create_new_glossary(query: api_glossary): 
+    result = (query)
+    created_glossary = result
+    words.append(created_glossary)
+    return created_glossary
+    
+@app.put("/update/glossary")
+async def update_glossary(updated_glossary: api_glossary):
+    for i, glossary in enumerate(words):
+        if glossary.id == updated_glossary.id:
+            words[i] = updated_glossary
+    return updated_glossary
+
+@app.delete("/delete/glossary/{id}")
+async def delete_glossary(id: int):
+    for i, glossary in enumerate(words):
+        if glossary.id == id:
+            del words[i]
+            break
+        
