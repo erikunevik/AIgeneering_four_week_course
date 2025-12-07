@@ -67,7 +67,7 @@ async def create_new_glossary(query: api_glossary):
     
 @app.put("/update/glossary")
 async def update_glossary(updated_glossary: api_glossary):
-    for i, glossary in enumerate(words):
+    for i, glossary in enumerate(words): # i är indexnumret, glossary innehållet i api_glossaryn för det numret
         if glossary.id == updated_glossary.id:
             words[i] = updated_glossary
     return updated_glossary
